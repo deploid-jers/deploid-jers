@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [YOUR NAME]
+<img width="948" height="1192" alt="image" src="https://github.com/user-attachments/assets/5551852d-da39-4eac-8a90-5b6e1f979082" /># 👋 Hi
 
 ### 🐍 Junior Python Developer · Backend Developer
 
@@ -79,116 +79,13 @@ Currently looking for an opportunity to join a development team as a **Junior Py
 
 ---
 
-## 🚀 Featured Projects
-
-> This section is ready for my projects. Project descriptions will be added as my portfolio grows.
-
-### 🔹 [PROJECT NAME]
-
-**What it does**
-
-[Brief description of the project and the problem it solves.]
-
-**Tech stack**
-
-`Python` · `[Django / FastAPI]` · `[PostgreSQL]` · `[Docker]`
-
-**Highlights**
-
-- [Feature / technical challenge]
-- [Feature / technical challenge]
-- [What you learned]
-
-🔗 **[View repository](REPOSITORY_URL)**
-
----
-
-### 🔹 [PROJECT NAME]
-
-**What it does**
-
-[Brief description.]
-
-**Tech stack**
-
-`[Technology]` · `[Technology]` · `[Technology]`
-
-**Highlights**
-
-- [Feature]
-- [Feature]
-- [What you learned]
-
-🔗 **[View repository](REPOSITORY_URL)**
-
----
-
-### 🔹 [PROJECT NAME]
-
-**What it does**
-
-[Brief description.]
-
-**Tech stack**
-
-`[Technology]` · `[Technology]` · `[Technology]`
-
-🔗 **[View repository](REPOSITORY_URL)**
-
----
-
-## 📚 Currently Learning
-
-```text
-Python Backend
-     │
-     ├── Django
-     ├── FastAPI
-     ├── REST APIs
-     ├── SQL / PostgreSQL
-     ├── SQLAlchemy
-     ├── Redis
-     ├── Docker
-     └── Testing
-
-Machine Learning
-     │
-     └── TensorFlow
-```
-
----
-
-## 💼 Open to Opportunities
-
-I'm currently looking for:
-
-**Junior Python Developer**  
-**Junior Backend Developer**  
-**Python Internship / Trainee**
-
-I'm interested in opportunities where I can:
-
-- work with Python and backend technologies;
-- contribute to real-world products;
-- learn from experienced developers;
-- improve my engineering and problem-solving skills.
-
-📍 **Location:** [CITY, COUNTRY]  
-🌍 **Remote:** [YES / NO / OPEN TO DISCUSSION]  
-💼 **Employment:** [FULL-TIME / PART-TIME / INTERNSHIP]
-
----
-
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ilasysoev5642@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_TELEGRAM_URL">
+  <a href="https://t.me/altctrl0">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
@@ -197,7 +94,7 @@ I'm interested in opportunities where I can:
 
 # 🇷🇺 Русская версия
 
-## 👋 Привет! Я [ТВОЁ ИМЯ]
+## 👋 Привет!
 
 ### 🐍 Junior Python Developer · Backend Developer
 
@@ -248,84 +145,11 @@ I'm interested in opportunities where I can:
 
 ---
 
-## 🚀 Мои проекты
-
-> Здесь будут представлены мои проекты. Описания можно добавить по мере наполнения портфолио.
-
-### 🔹 [НАЗВАНИЕ ПРОЕКТА]
-
-**Что делает проект**
-
-[Краткое описание проекта и решаемой задачи.]
-
-**Стек**
-
-`Python` · `[Django / FastAPI]` · `[PostgreSQL]` · `[Docker]`
-
-**Что реализовано**
-
-- [Функциональность]
-- [Функциональность]
-- [Что было изучено / реализовано]
-
-🔗 **[Открыть репозиторий](ССЫЛКА_НА_REPOSITORY)**
-
----
-
-### 🔹 [НАЗВАНИЕ ПРОЕКТА]
-
-**Что делает проект**
-
-[Краткое описание.]
-
-**Стек**
-
-`[Технология]` · `[Технология]` · `[Технология]`
-
-🔗 **[Открыть репозиторий](ССЫЛКА_НА_REPOSITORY)**
-
----
-
-## 📚 Сейчас изучаю
-
-- Python Backend
-- Django
-- FastAPI
-- REST API
-- SQL / PostgreSQL
-- SQLAlchemy
-- Redis
-- Docker
-- Testing
-- TensorFlow
-
----
-
-## 💼 В поиске работы
-
-Сейчас рассматриваю позиции:
-
-**Junior Python Developer**  
-**Junior Backend Developer**  
-**Python Intern / Trainee**
-
-Мне интересны задачи, связанные с Python, backend-разработкой, API и базами данных.
-
-📍 **Локация:** [ГОРОД, СТРАНА]  
-🌍 **Удалённая работа:** [ДА / НЕТ / ОБСУЖДАЕТСЯ]  
-💼 **Формат:** [FULL-TIME / PART-TIME / INTERNSHIP]
-
----
-
 ## 📫 Контакты
 
-📧 **Email:** [ВАШ EMAIL]
+📧 **Email:** [ilasysoev5642@gmail.com]
 
-💼 **LinkedIn:** [ВАША ССЫЛКА]
-
-💬 **Telegram:** [ВАША ССЫЛКА]
-
-🌐 **Portfolio:** [ВАША ССЫЛКА]
+💬 **Telegram:** [https://t.me/altctrl0]
 
 ---
 
