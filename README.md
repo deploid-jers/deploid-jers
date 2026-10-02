@@ -1,13 +1,37 @@
-# 👋 Привет! Я [ТВОЁ ИМЯ]
+# 👋 Hi, I'm [YOUR NAME]
 
-### 🐍 Junior Python Developer | Backend Developer
+### 🐍 Junior Python Developer · Backend Developer
 
-🇷🇺 **Русский** · 🇬🇧 **English**
+> Building my way into backend development with Python, APIs, databases and modern development tools.
 
-Я начинающий разработчик, специализирующийся на **Python и backend-разработке**.  
-Изучаю и применяю современные инструменты для создания веб-приложений, API и работы с базами данных.
+🇷🇺 [Русская версия](#-русская-версия) · 🇬🇧 English
 
-Сейчас я **ищу позицию Junior Developer / Junior Python Developer**, где смогу развиваться как разработчик, работать над реальными задачами и применять свои знания на практике.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Junior Python Developer** focused on backend development.
+
+I'm interested in building web applications, REST APIs and services, working with databases and learning how production software is designed and deployed.
+
+Currently looking for an opportunity to join a development team as a **Junior Python / Backend Developer**, contribute to real-world projects and continue growing as an engineer.
+
+### 🎯 My focus
+
+- 🐍 Python backend development
+- ⚡ REST APIs with Django & FastAPI
+- 🗄️ PostgreSQL & SQL
+- 🔴 Redis
+- 🐳 Docker
+- 🐧 Linux
+- 🔧 Git & development workflows
+- 🤖 Exploring machine learning with TensorFlow
 
 ---
 
@@ -15,93 +39,285 @@
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+</p>
 
-### Databases & Cache
+`Python` · `Django` · `FastAPI` · `SQLAlchemy`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,redis" />
+</p>
+
+`PostgreSQL` · `SQL` · `Redis`
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+`HTML` · `CSS` · `JavaScript`
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git" />
+</p>
+
+`Docker` · `Linux` · `Git`
 
 ### Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+`TensorFlow`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-> Здесь будут мои проекты. Описание ниже можно заполнить по мере добавления проектов.
+> This section is ready for my projects. Project descriptions will be added as my portfolio grows.
 
-### 📌 [Название проекта]
+### 🔹 [PROJECT NAME]
 
-**Описание:**  
-[Кратко опишите, что делает проект и какую проблему решает.]
+**What it does**
 
-**Стек:**  
+[Brief description of the project and the problem it solves.]
+
+**Tech stack**
+
 `Python` · `[Django / FastAPI]` · `[PostgreSQL]` · `[Docker]`
 
-🔗 [Repository](ССЫЛКА_НА_РЕПОЗИТОРИЙ)
+**Highlights**
+
+- [Feature / technical challenge]
+- [Feature / technical challenge]
+- [What you learned]
+
+🔗 **[View repository](REPOSITORY_URL)**
 
 ---
 
-### 📌 [Название проекта]
+### 🔹 [PROJECT NAME]
 
-**Описание:**  
-[Краткое описание проекта.]
+**What it does**
 
-**Стек:**  
-`[Технологии проекта]`
+[Brief description.]
 
-🔗 [Repository](ССЫЛКА_НА_РЕПОЗИТОРИЙ)
+**Tech stack**
 
----
+`[Technology]` · `[Technology]` · `[Technology]`
 
-## 🎯 Currently Learning
+**Highlights**
 
-- 🐍 Python backend development
-- 🌐 REST API development
-- 🗄️ Databases and SQL
-- 🐳 Docker and containerization
-- ⚡ Async programming
-- 🧪 Testing
-- 🔐 Authentication & authorization
-- ☁️ [Добавьте интересующие технологии]
+- [Feature]
+- [Feature]
+- [What you learned]
+
+🔗 **[View repository](REPOSITORY_URL)**
 
 ---
 
-## 💼 Looking for
+### 🔹 [PROJECT NAME]
 
-Я открыт к возможностям:
+**What it does**
 
-- 👨‍💻 **Junior Python Developer**
-- ⚙️ **Junior Backend Developer**
-- 🌱 Internship / Trainee positions
+[Brief description.]
 
-Особенно интересны задачи, связанные с **Python, backend-разработкой, API и базами данных**.
+**Tech stack**
 
-📍 **Location:** [ГОРОД / СТРАНА / Remote]  
-💼 **Employment:** [Full-time / Part-time / Internship]  
-🌍 **Relocation:** [Да / Нет / Обсуждается]
+`[Technology]` · `[Technology]` · `[Technology]`
+
+🔗 **[View repository](REPOSITORY_URL)**
 
 ---
 
-## 📫 Contacts
+## 📚 Currently Learning
+
+```text
+Python Backend
+     │
+     ├── Django
+     ├── FastAPI
+     ├── REST APIs
+     ├── SQL / PostgreSQL
+     ├── SQLAlchemy
+     ├── Redis
+     ├── Docker
+     └── Testing
+
+Machine Learning
+     │
+     └── TensorFlow
+```
+
+---
+
+## 💼 Open to Opportunities
+
+I'm currently looking for:
+
+**Junior Python Developer**  
+**Junior Backend Developer**  
+**Python Internship / Trainee**
+
+I'm interested in opportunities where I can:
+
+- work with Python and backend technologies;
+- contribute to real-world products;
+- learn from experienced developers;
+- improve my engineering and problem-solving skills.
+
+📍 **Location:** [CITY, COUNTRY]  
+🌍 **Remote:** [YES / NO / OPEN TO DISCUSSION]  
+💼 **Employment:** [FULL-TIME / PART-TIME / INTERNSHIP]
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_TELEGRAM_URL">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 🇷🇺 Русская версия
+
+## 👋 Привет! Я [ТВОЁ ИМЯ]
+
+### 🐍 Junior Python Developer · Backend Developer
+
+> Развиваюсь в backend-разработке на Python, создавая API, работая с базами данных и изучая современные инструменты разработки.
+
+Я **Junior Python Developer**, сфокусированный на backend-разработке.
+
+Мне интересно создавать веб-приложения и API, работать с базами данных и разбираться в том, как устроена разработка и развёртывание современных приложений.
+
+Сейчас я ищу возможность присоединиться к команде в качестве **Junior Python / Backend Developer**, работать над реальными задачами и развиваться как разработчик.
+
+---
+
+## 🎯 Мои основные направления
+
+- 🐍 Backend-разработка на Python
+- ⚡ REST API с Django и FastAPI
+- 🗄️ PostgreSQL и SQL
+- 🔴 Redis
+- 🐳 Docker
+- 🐧 Linux
+- 🔧 Git
+- 🤖 Изучение Machine Learning с TensorFlow
+
+---
+
+## 🛠️ Технологии
+
+**Backend**
+
+`Python` · `Django` · `FastAPI` · `SQLAlchemy`
+
+**Databases**
+
+`PostgreSQL` · `SQL` · `Redis`
+
+**Frontend**
+
+`HTML` · `CSS` · `JavaScript`
+
+**DevOps & Tools**
+
+`Docker` · `Linux` · `Git`
+
+**Machine Learning**
+
+`TensorFlow`
+
+---
+
+## 🚀 Мои проекты
+
+> Здесь будут представлены мои проекты. Описания можно добавить по мере наполнения портфолио.
+
+### 🔹 [НАЗВАНИЕ ПРОЕКТА]
+
+**Что делает проект**
+
+[Краткое описание проекта и решаемой задачи.]
+
+**Стек**
+
+`Python` · `[Django / FastAPI]` · `[PostgreSQL]` · `[Docker]`
+
+**Что реализовано**
+
+- [Функциональность]
+- [Функциональность]
+- [Что было изучено / реализовано]
+
+🔗 **[Открыть репозиторий](ССЫЛКА_НА_REPOSITORY)**
+
+---
+
+### 🔹 [НАЗВАНИЕ ПРОЕКТА]
+
+**Что делает проект**
+
+[Краткое описание.]
+
+**Стек**
+
+`[Технология]` · `[Технология]` · `[Технология]`
+
+🔗 **[Открыть репозиторий](ССЫЛКА_НА_REPOSITORY)**
+
+---
+
+## 📚 Сейчас изучаю
+
+- Python Backend
+- Django
+- FastAPI
+- REST API
+- SQL / PostgreSQL
+- SQLAlchemy
+- Redis
+- Docker
+- Testing
+- TensorFlow
+
+---
+
+## 💼 В поиске работы
+
+Сейчас рассматриваю позиции:
+
+**Junior Python Developer**  
+**Junior Backend Developer**  
+**Python Intern / Trainee**
+
+Мне интересны задачи, связанные с Python, backend-разработкой, API и базами данных.
+
+📍 **Локация:** [ГОРОД, СТРАНА]  
+🌍 **Удалённая работа:** [ДА / НЕТ / ОБСУЖДАЕТСЯ]  
+💼 **Формат:** [FULL-TIME / PART-TIME / INTERNSHIP]
+
+---
+
+## 📫 Контакты
 
 📧 **Email:** [ВАШ EMAIL]
 
@@ -113,120 +329,6 @@
 
 ---
 
-# 🇬🇧 English
-
-## 👋 Hi! I'm [YOUR NAME]
-
-### 🐍 Junior Python Developer | Backend Developer
-
-I'm a junior developer focused on **Python and backend development**.
-
-I'm learning and working with modern technologies for building web applications, APIs, databases and backend services.
-
-I'm currently **looking for a Junior Developer / Junior Python Developer position** where I can grow as a developer, work on real-world projects and apply my skills in practice.
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-### Databases & Cache
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-## 🚀 Projects
-
-> This section will contain my projects. The placeholders below can be filled in as projects are added.
-
-### 📌 [Project Name]
-
-**Description:**  
-[Briefly describe what the project does and what problem it solves.]
-
-**Tech Stack:**  
-`Python` · `[Django / FastAPI]` · `[PostgreSQL]` · `[Docker]`
-
-🔗 [Repository](REPOSITORY_LINK)
-
----
-
-### 📌 [Project Name]
-
-**Description:**  
-[Brief project description.]
-
-**Tech Stack:**  
-`[Project technologies]`
-
-🔗 [Repository](REPOSITORY_LINK)
-
----
-
-## 🎯 Currently Learning
-
-- 🐍 Python backend development
-- 🌐 REST API development
-- 🗄️ Databases and SQL
-- 🐳 Docker and containerization
-- ⚡ Asynchronous programming
-- 🧪 Testing
-- 🔐 Authentication & authorization
-- ☁️ [Add technologies you're currently learning]
-
----
-
-## 💼 Looking for
-
-I'm open to opportunities as:
-
-- 👨‍💻 **Junior Python Developer**
-- ⚙️ **Junior Backend Developer**
-- 🌱 **Intern / Trainee**
-
-I'm particularly interested in projects involving **Python, backend development, APIs and databases**.
-
-📍 **Location:** [CITY / COUNTRY / REMOTE]  
-💼 **Employment:** [Full-time / Part-time / Internship]  
-🌍 **Relocation:** [Yes / No / Open to discussion]
-
----
-
-## 📫 Contacts
-
-📧 **Email:** [YOUR EMAIL]
-
-💼 **LinkedIn:** [YOUR LINK]
-
-💬 **Telegram:** [YOUR LINK]
-
-🌐 **Portfolio:** [YOUR LINK]
-
----
-
-⭐ *Thanks for visiting my profile!*
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
