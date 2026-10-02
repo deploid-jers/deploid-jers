@@ -147,9 +147,9 @@ Currently looking for an opportunity to join a development team as a **Junior Py
 
 ## 📫 Контакты
 
-📧 **Email:** [ilasysoev5642@gmail.com]
+📧 **Email:** ilasysoev5642@gmail.com
 
-💬 **Telegram:** [https://t.me/altctrl0]
+💬 **Telegram:** https://t.me/altctrl0
 
 ---
 
