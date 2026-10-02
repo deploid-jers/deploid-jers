@@ -1,4 +1,4 @@
-<img width="948" height="1192" alt="image" src="https://github.com/user-attachments/assets/5551852d-da39-4eac-8a90-5b6e1f979082" /># 👋 Hi
+# 👋 Hi
 
 ### 🐍 Junior Python Developer · Backend Developer
 
